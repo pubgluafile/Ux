@@ -24,12 +24,19 @@ return {
         max_devices = 1,
         SLOT = "3"
     },
+    ["LEGENDVIP"] = {
+        type = "DEMO",
+        expiry = "2026-10-30",
+        valid = true,
+        max_devices = 10,
+        SLOT = "4"
+    },
     ["SINGLE_USER"] = {
         type = "VIP",
         expiry = "2025-01-01",
         valid = true,
         max_devices = 1,
-        SLOT = "4"
+        SLOT = "5"
     },
     ["BLOCKED"] = {
         type = "BLOCKED",
