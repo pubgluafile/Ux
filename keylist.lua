@@ -17,11 +17,11 @@ return {
         max_devices = 5,
         SLOT = "2"
     },
-    ["UNOFFICIAL"] = {
+    ["UXOFFICIAL"] = {
         type = "DEMO",
         expiry = "2026-09-10",
         valid = true,
-        max_devices = 1,
+        max_devices = 500,
         SLOT = "3"
     },
     ["LEGENDVIP"] = {
