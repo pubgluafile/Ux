@@ -38,6 +38,13 @@ return {
         max_devices = 1,
         SLOT = "5"
     },
+    "UXOFFICIAL"] = {
+        type = "DEMO",
+        expiry = "2026-10-10",
+        valid = true,
+        max_devices = 500,
+        SLOT = "6"
+    },
     ["BLOCKED"] = {
         type = "BLOCKED",
         expiry = "2026-12-31",
