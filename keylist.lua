@@ -45,11 +45,11 @@ return {
         max_devices = 500,
         SLOT = "6"
     },
-    "LEGEND-1D-KAIQ82827E7S"] = {
+    "LEGEND1DAY"] = {
         type = "DEMO",
         expiry = "2026-10-10",
         valid = true,
-        max_devices = 50,
+        max_devices = 5,
         SLOT = "7"
     },
     ["BLOCKED"] = {
