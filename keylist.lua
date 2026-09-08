@@ -31,12 +31,19 @@ return {
         max_devices = 10,
         SLOT = "4"
     },
+    ["VIP-LUA-1DAY"] = {
+        type = "DEMO",
+        expiry = "2026-9-10",
+        valid = true,
+        max_devices = 10,
+        SLOT = "5"
+    },
     ["SINGLE_USER"] = {
         type = "VIP",
         expiry = "2025-01-01",
         valid = true,
         max_devices = 1,
-        SLOT = "5"
+        SLOT = "6"
     },
     ["BLOCKED"] = {
         type = "BLOCKED",
