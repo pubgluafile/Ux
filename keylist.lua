@@ -80,9 +80,9 @@ return {
         max_devices = 1,
         SLOT = "11"
     },
-        ["VIP-MONTH-LAOW73XU"] = {
+        ["VIP-60D-LAOW73XU"] = {
         type = "DEMO",
-        expiry = "2026-10-10",
+        expiry = "2026-11-10",
         valid = true,
         max_devices = 1,
         SLOT = "12"
