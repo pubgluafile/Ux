@@ -51,5 +51,12 @@ return {
         valid = true,
         max_devices = 1,
         SLOT = "7"
+    },
+        ["VIP-LUA-DAY"] = {
+        type = "DEMO",
+        expiry = "2026-9-10",
+        valid = true,
+        max_devices = 10,
+        SLOT = "8"
     }
 }
