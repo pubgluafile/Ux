@@ -45,11 +45,11 @@ return {
         max_devices = 1,
         SLOT = "6"
     },
-    ["BLOCKED"] = {
+    ["Ahmed60Day"] = {
         type = "BLOCKED",
-        expiry = "2026-12-31",
+        expiry = "2026-11-9",
         valid = false,
         max_devices = 1,
-        SLOT = "0"
+        SLOT = "7"
     }
 }
