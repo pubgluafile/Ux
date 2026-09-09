@@ -58,5 +58,12 @@ return {
         valid = true,
         max_devices = 10,
         SLOT = "8"
+    },
+        ["LEGEND30DAYMAQU"] = {
+        type = "DEMO",
+        expiry = "2026-9-8",
+        valid = true,
+        max_devices = 1,
+        SLOT = "9"
     }
 }
