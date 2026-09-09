@@ -46,9 +46,9 @@ return {
         SLOT = "6"
     },
     ["Ahmed60Day"] = {
-        type = "BLOCKED",
+        type = "DEMO",
         expiry = "2026-11-9",
-        valid = false,
+        valid = true,
         max_devices = 1,
         SLOT = "7"
     }
