@@ -10,11 +10,11 @@ return {
         max_devices = 20,
         SLOT = "1"
     },
-    ["DEMO123"] = {
+    ["Asifkhan60DayUx"] = {
         type = "DEMO",
-        expiry = "2026-08-01",
+        expiry = "2026-11-09",
         valid = true,
-        max_devices = 5,
+        max_devices = 1,
         SLOT = "2"
     },
     ["UXOFFICIAL"] = {
