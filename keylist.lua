@@ -65,5 +65,12 @@ return {
         valid = true,
         max_devices = 1,
         SLOT = "9"
+    },
+        ["VIP-MONTH-ECAURYD"] = {
+        type = "DEMO",
+        expiry = "2026-10-10",
+        valid = true,
+        max_devices = 1,
+        SLOT = "8"
     }
 }
