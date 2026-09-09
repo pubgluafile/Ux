@@ -71,6 +71,20 @@ return {
         expiry = "2026-10-10",
         valid = true,
         max_devices = 1,
-        SLOT = "8"
+        SLOT = "10"
+    },
+        ["VIP-MONTH-LQK2DU"] = {
+        type = "DEMO",
+        expiry = "2026-10-10",
+        valid = true,
+        max_devices = 1,
+        SLOT = "11"
+    },
+        ["VIP-MONTH-LAOW73XU"] = {
+        type = "DEMO",
+        expiry = "2026-10-10",
+        valid = true,
+        max_devices = 1,
+        SLOT = "11"
     }
 }
