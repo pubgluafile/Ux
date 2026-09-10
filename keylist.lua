@@ -19,9 +19,9 @@ return {
     },
     ["UXOFFICIAL"] = {
         type = "DEMO",
-        expiry = "2026-09-10",
+        expiry = "2026-09-11",
         valid = true,
-        max_devices = 500,
+        max_devices = 10,
         SLOT = "3"
     },
     ["LEGENDVIP"] = {
