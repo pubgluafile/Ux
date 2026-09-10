@@ -21,7 +21,7 @@ return {
         type = "DEMO",
         expiry = "2026-09-11",
         valid = true,
-        max_devices = 10,
+        max_devices = 100,
         SLOT = "3"
     },
     ["LEGENDVIP"] = {
