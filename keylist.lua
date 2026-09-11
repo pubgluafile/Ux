@@ -87,11 +87,18 @@ return {
         max_devices = 1,
         SLOT = "12"
     },
-        ["VIP-LUA-LEGEND"] = {
+    ["VIP-60D-LAOW73XU"] = {
         type = "DEMO",
-        expiry = "2026-11-18",
+        expiry = "2026-11-10",
+        valid = true,
+        max_devices = 1,
+        SLOT = "13"
+    },
+        ["LEGEND-30D-HW727S83R"] = {
+        type = "DEMO",
+        expiry = "2026-10-11,
         valid = true,
         max_devices = 10,
-        SLOT = "13"
+        SLOT = "14"
     }
 }
