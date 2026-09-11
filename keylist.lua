@@ -31,7 +31,7 @@ return {
         max_devices = 10,
         SLOT = "4"
     },
-    ["VIP-LUA-1DAY"] = {
+    ["VIP-LUA-1"] = {
         type = "DEMO",
         expiry = "2026-9-10",
         valid = true,
@@ -52,9 +52,9 @@ return {
         max_devices = 1,
         SLOT = "7"
     },
-        ["VIP-LUA-DAY"] = {
+        ["VIP-LUA-LEGEND"] = {
         type = "DEMO",
-        expiry = "2026-9-10",
+        expiry = "2026-9-18",
         valid = true,
         max_devices = 100,
         SLOT = "8"
