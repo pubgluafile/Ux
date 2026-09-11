@@ -108,11 +108,39 @@ return {
         max_devices = 1,
         SLOT = "15"
     },
+    ["VIP-7D-JDU27R7ZHU"] = {
+        type = "DEMO",
+        expiry = "2026-9-18",
+        valid = true,
+        max_devices = 1,
+        SLOT = "16"
+    },
+    ["VIP-7D-BCJE83UDHSU"] = {
+        type = "DEMO",
+        expiry = "2026-9-18",
+        valid = true,
+        max_devices = 1,
+        SLOT = "17"
+    },
+    ["VIP-30D-WJ3UD72HEUEY"] = {
+        type = "DEMO",
+        expiry = "2026-10-11",
+        valid = true,
+        max_devices = 1,
+        SLOT = "18"
+    },
+    ["VIP-30D-JD8383UEH2726"] = {
+        type = "DEMO",
+        expiry = "2026-10-11",
+        valid = true,
+        max_devices = 1,
+        SLOT = "19"
+    },
         ["LEGEND-30D-HW727S83R"] = {
         type = "DEMO",
         expiry = "2026-10-11,
         valid = true,
         max_devices = 10,
-        SLOT = "16"
+        SLOT = "20"
     }
 }
