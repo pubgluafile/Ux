@@ -52,7 +52,7 @@ return {
         max_devices = 1,
         SLOT = "7"
     },
-        ["VIP-LUA-LEGEND"] = {
+        ["VIP-LUA-JAAHSYY"] = {
         type = "DEMO",
         expiry = "2026-9-18",
         valid = true,
