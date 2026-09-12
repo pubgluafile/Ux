@@ -136,9 +136,9 @@ return {
         max_devices = 1,
         SLOT = "19"
     },
-    ["VIP_1Day_jaj273uysh"] = {
+    ["VIP_1Day_IFI38U2JEU3"] = {
         type = "DEMO",
-        expiry = "2026-9-12",
+        expiry = "2026-9-14",
         valid = true,
         max_devices = 2,
         SLOT = "20"
