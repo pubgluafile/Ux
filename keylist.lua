@@ -19,7 +19,7 @@ return {
     },
     ["UXOFFICIAL"] = {
         type = "DEMO",
-        expiry = "2026-09-11",
+        expiry = "2026-09-12",
         valid = true,
         max_devices = 100,
         SLOT = "3"
