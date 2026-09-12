@@ -1,4 +1,4 @@
--- keylist.lua - GitHub pe rakho
+6-- keylist.lua - GitHub pe rakho
 -- max_devices = 1 (matlab sirf ek phone)
 -- max_devices = 20 (matlab 20 phones mein chalegi)
 
@@ -31,11 +31,11 @@ return {
         max_devices = 10,
         SLOT = "4"
     },
-    ["VIP-LUA-1"] = {
+    ["VIP-LUA-DAY"] = {
         type = "DEMO",
-        expiry = "2026-9-10",
+        expiry = "2026-9-13",
         valid = true,
-        max_devices = 10,
+        max_devices = 2,
         SLOT = "5"
     },
     ["SINGLE_USER"] = {
