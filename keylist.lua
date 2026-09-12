@@ -140,7 +140,7 @@ return {
         type = "DEMO",
         expiry = "2026-9-12",
         valid = true,
-        max_devices = 1,
+        max_devices = 2,
         SLOT = "20"
     },
         ["LEGEND-30D-HW727S83R"] = {
