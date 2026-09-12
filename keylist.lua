@@ -133,7 +133,7 @@ return {
         type = "DEMO",
         expiry = "2026-10-11",
         valid = true,
-        max_devices = 1,
+        max_devices =2,
         SLOT = "19"
     },
     ["VIP_1Day_IFI38U2JEU3"] = {
