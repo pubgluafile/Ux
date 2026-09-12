@@ -5,21 +5,21 @@
 return {
     ["SOLVEXA"] = {
         type = "DEMO",
-        expiry = "2026-9-12",
+        expiry = "2026-9-11",
         valid = true,
         max_devices = 20,
         SLOT = "1"
     },
     ["Asifkhan60DayUx"] = {
         type = "DEMO",
-        expiry = "2026-11-09",
+        expiry = "2026-9-09",
         valid = true,
         max_devices = 2,
         SLOT = "2"
     },
     ["UXOFFICIAL"] = {
         type = "DEMO",
-        expiry = "2026-09-12",
+        expiry = "2026-09-11",
         valid = true,
         max_devices = 100,
         SLOT = "3"
@@ -47,7 +47,7 @@ return {
     },
     ["Ahmed60Day"] = {
         type = "DEMO",
-        expiry = "2026-11-9",
+        expiry = "2026-9-9",
         valid = true,
         max_devices = 1,
         SLOT = "7"
